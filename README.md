@@ -20,7 +20,7 @@ Community members holding the tokens are publicly displaying (on the Blockchain)
 
 ### Board of Directors
 
-The Board will be comprised of 12 women who have strong personalities on social media, understand cryptocurrency, and desire to welcome more women into Web3. They will be led by a Chairman who controls the Community Funds wallet. The Board will meet every Tuesday night for 2-3 hours and this meeting will be livestreamed on social media for full transparency. The responsibilities of the Board are to decide the direction of the organization and pass that along to the CEO along with the necessary funding to execute.
+The Board will be comprised of 12 women who have strong personalities on social media, understand cryptocurrency, and desire to welcome more women into Web3. They will be led by a Chairman who controls the Community Funds wallet. The Board will meet every Tuesday night for 2-3 hours and this meeting will be livestreamed on social media for full transparency. The responsibilities of the Board are to decide the direction of the organization and communicate that to the CEO along with the necessary funding to execute.
 
 ### CEO
 
