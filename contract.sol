@@ -1256,9 +1256,9 @@ contract women is ERC20, Ownable {
  
         previousFee = sellTotalFees;
  
-        marketingWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Marketing Funds
+        marketingWallet = address(0x3fF9d4b6D32748ffA967868Bd1F20f0bC6c3cf12); // Marketing Funds
         developmentWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Dev Funds
-        communityFundWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Community Funds
+        communityFundWallet = address(0x907D8B91a49765A4A7d054e1878D8B063e685fdB); // Community Funds
  
         excludeFromFees(owner(), true);
         excludeFromFees(address(this), true);
