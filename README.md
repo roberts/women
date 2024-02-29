@@ -33,3 +33,15 @@ Hired by the CEO, the staff and their contributors will execute the specific det
 ## ERC-20 Token
 
 As mentioned, the project will be multi-chain with tokens (both Fungible and Non-Fungible) on every Blockchain & Layer-2 that the Board of Directors approves. The core underlying asset of the project will be the $WOMEN ticker on Mainnet Ethereum and this will be the only token with DAO voting rights to elect the Board of Directors. The title of the token will be "Womens Rights in Web3" and the contract details are as follows:
+
+### Tokenomics
+
+There will be a fixed total supply of 69,000,420 tokens. 50% of the supply will be launched in the Uniswap V2 liquidity pool. 10% of the supply will be controlled by the Chairman of the Board to use for executing the roadmap to recruit personnel with vested tokens. 40% of the supply will be launched in Uniswap V3 Liquidity Pools primarily for exotic pairings with other long-term token projects.
+
+### Tax Structure
+
+There will be a 3/16 lopsided tax structure to encourage long-term holders and yet still allow degen traders to come in and out of the project supporting the long-term mission of the project by providing ongoing revenue to the organization to execute their roadmap. Core community members will take advantage of a low buy tax and have plenty of 0% tax off-ramps through swapping into NFTs and other project tokens allowing them to greatly benefit without the drawback of the high sales tax. The taxes will be split into 3 wallets for Marketing, Community, and Development and each will be managed independently to ensure success in those areas of execution.
+
+## Additional Tokens
+
+The Roadmap will include additional fungible token launches on Solana and other Blockchains to allow greater inclusivity towards women entering Web3. In addition, the roadmap includes the launches of multiple NFT projects, both those for women-centered profile pictures (PFPs) and art collections.
