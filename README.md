@@ -8,7 +8,7 @@ Web3 has a Crypto Bro culture, especially on social media but also at IRL events
 
 ## $WOMEN
 
-The $WOMEN project is designed to address this problem by creating a DAO that will elect a femal Board of Directors to execute a roadmap providing a safe place and guidance for other women entering cryptocurrency during the upcoming Bull Run.
+The $WOMEN project is designed to address this problem by creating a DAO that will elect a female Board of Directors to execute a roadmap providing a safe place and guidance for other women entering cryptocurrency during the upcoming Bull Run.
 
 ## ERC-20 Token
 
