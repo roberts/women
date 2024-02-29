@@ -32,4 +32,4 @@ Hired by the CEO, the staff and their contributors will execute the specific det
 
 ## ERC-20 Token
 
-As mentioned, the project will be multi-chain with tokens (both Fungible and Non-Fungible) on every Blockchain & Layer-2 that the Board of Directors approves. The core underlying asset of the project will be the $WOMEN ticker on Mainnet Ethereum. The title of the token will be "Womens Rights in Web3" and the contract details are as follows:
+As mentioned, the project will be multi-chain with tokens (both Fungible and Non-Fungible) on every Blockchain & Layer-2 that the Board of Directors approves. The core underlying asset of the project will be the $WOMEN ticker on Mainnet Ethereum and this will be the only token with DAO voting rights to elect the Board of Directors. The title of the token will be "Womens Rights in Web3" and the contract details are as follows:
