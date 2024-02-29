@@ -16,7 +16,7 @@ The management structure to execute this mission is as follows:
 
 ### Token Holders
 
-Community members holding the tokens are publicly displaying (on the Blockchain) their support for Womens Rights in Web3 & thereby contributing of both their cryptocurrency and time to this mission. The core responsibility of Token Holders is to elect the 12-person Board of Directors. Additionally, token holders should seek to promote the project & add value to the organization as much as possible. Proposals should be made to by Token Holders to the Board of Directors for projects & other ideas to improve the long-term success of the organization.
+Community members holding the tokens are publicly displaying (on the Blockchain) their support for Womens Rights in Web3 & thereby contributing of both their cryptocurrency and time to this mission. The core responsibility of Token Holders is to elect the 12-person Board of Directors. Additionally, token holders should seek to promote the project & add value to the organization as much as possible. Proposals should be made by Token Holders to the Board of Directors for projects & other ideas to improve the long-term success of the organization.
 
 ### Board of Directors
 
