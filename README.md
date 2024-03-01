@@ -36,7 +36,7 @@ As mentioned, the project will be multi-chain with tokens (both Fungible and Non
 
 ### Tokenomics
 
-There will be a fixed total supply of 69,000,420 tokens. 50% of the supply will be launched in the Uniswap V2 liquidity pool. 10% of the supply will be controlled by the Chairman of the Board to use for executing the roadmap to recruit personnel with vested tokens. 40% of the supply will be launched in Uniswap V3 Liquidity Pools primarily for exotic pairings with other long-term token projects.
+There will be a fixed total supply of 69,000,420 tokens. 90% of the supply will be launched in the Uniswap V2 liquidity pool. 10% of the supply will be controlled by the Chairman of the Board to use for executing the roadmap by recruiting personnel with vested tokens.
 
 ### Tax Structure
 
