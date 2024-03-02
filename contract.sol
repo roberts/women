@@ -1236,8 +1236,8 @@ contract women is ERC20, Ownable {
  
         uint256 totalSupply = 69_000_420 ether;
  
-        maxTransactionAmount = (totalSupply) / 100; // 1% of total supply (1,380,008 tokens)
-        maxWallet = (totalSupply) / 50;  // 2% of total supply (690,000,000 tokens)
+        maxTransactionAmount = (totalSupply) / 50; // 2% of total supply (1,380,008 tokens)
+        maxWallet = (totalSupply) / 20;  // 5% of total supply (3,450,021 tokens)
         swapTokensAtAmount = (totalSupply * 5) / 10000;
  
         buyMarketingFee = 1;
@@ -1303,7 +1303,7 @@ contract women is ERC20, Ownable {
         excludeFromMaxTransaction(address(uniswapV2Pair), true);
 
         uint256 tokensInWallet = balanceOf(address(this));
-        uint256 tokensToAdd = tokensInWallet * 90 / 100; // 90% of tokens in wallet go to LP
+        uint256 tokensToAdd = tokensInWallet * 100 / 100; // 100% of tokens in wallet go to LP
  
         uniswapV2Router.addLiquidityETH{value: address(this).balance}(
             address(this),
