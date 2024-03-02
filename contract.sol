@@ -5,7 +5,9 @@
 /**
  *
  *
-
+   https://WomensRights.xyz
+   https://x.com/womensrightseth
+   https://t.me/WomensRightsDAO
    
 
    Contract features:
